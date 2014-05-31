@@ -1,0 +1,15 @@
+logs/*
+**/*.log
+!.gitkeep
+platforms/
+node_modules/
+tmp
+**/*temp*
+.DS_Store
+**/*.vim
+**/test-coverage/**
+**/*.heapsnapshot
+build/**
+**/test-results.xml
+npm-debug.log
+**/*diff*
